@@ -1,6 +1,4 @@
-Rythm - Music Management Playlist 🎵
-
-is a web-based application designed to help users efficiently manage their favorite songs and playlists.
+Rythm - Music Management Playlist 🎵. It is a web-based application designed to help users efficiently manage their favorite songs and playlists.
 
 This project allows users to:
 
