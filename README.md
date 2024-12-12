@@ -2,9 +2,9 @@ Rythm - Music Management Playlist 🎵. It is a web-based application designed t
 
 This project allows users to:
 
--Update and delete their music mp3 files with ease.
--Play songs directly using an integrated audio player.
--Add new songs to personalize their collection.
+Update and delete their music mp3 files with ease.
+Play songs directly using an integrated audio player.
+Add new songs to personalize their collection.
 
 
 Features
