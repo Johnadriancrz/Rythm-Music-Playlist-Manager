@@ -19,5 +19,21 @@ This project allows users to:
 - **Backend**: PHP  
 - **Database**: MySQL  
 
+## Instructions  
+This is a brief instruction to test the website and to look at it:  
 
+<div align="center">
 
+### Step 1  
+Download the folder files/ZIP  (password:123)
+
+### Step 2  
+Setup or download XAMPP Control Panel & start **Apache** and **MySQL**  
+
+### Step 3  
+Go to your browser or Chrome & type:  
+`localhost/RythmMusic/`  
+
+Enjoy! ❤️  
+
+</div>
